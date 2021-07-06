@@ -20,7 +20,6 @@ body {
   padding-left: 20%;
 }
 .paragraph-div {
-  padding-top:0;
   padding-left: 5%;
   font-size: 2rem;
 }
@@ -44,6 +43,7 @@ body {
   margin-left: 3%;
   margin-right: 3%;
   padding: 2%;
+  padding-bottom: 25%;
   border-radius: 15px;
 }
 .recipie-item img {
@@ -59,7 +59,7 @@ body {
 .font-size{
   font-size: 2rem;
 }
-#footer {
+.footer {
   text-align: center;
   color: aliceblue;
   background-color: black;
